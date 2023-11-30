@@ -28,7 +28,7 @@
     ```bash
    cd selenium-ruby-egovtech
 2. Execute the following command to run the Cucumber tests:
- ```bash
+    ```bash
    bundle exec cucumber
 
 ### Test Report
@@ -38,8 +38,8 @@
     ```bash
    test_results/
 2. The test report will be generated on formatted datetime folder,
-for example:
- ```bash
+    for example:
+    ```bash
    test_results/2023_11/2023_11_30/2023_11_30_21-17-31_results.html
 3. Open the *.htm*l file in browser
 
